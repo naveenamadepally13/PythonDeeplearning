@@ -25,12 +25,10 @@ Y = dataset['Type'].values
 
 X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.20)
 
-
 # Fitting Naive Bayes Classification to the Training set with linear kernel
 
 nvclassifier = GaussianNB()
 nvclassifier.fit(X_train, y_train)
-
 # Predicting the Test set results
 
 y_pred = nvclassifier.predict(X_test)

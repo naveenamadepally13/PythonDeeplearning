@@ -41,7 +41,7 @@ print('\n\nAccuracy of the SVM Linear Kernel Classification on testing part is: 
 # Fitting SVC Classification to the Training set with rbf  kernel
 
 
-svc_rbf = SVC(kernel='rbf', C=1, gamma=0.3).fit(X_train, y_train)
+svc_rbf = SVC(kernel='rbf', C=1, gamma=0.4).fit(X_train, y_train)
 
 
 # Accuracy of SVM RBF kernel on Training set

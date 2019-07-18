@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a338e705-f66b-466c-87ee-da19c4a54093" name="Default Changelist" comment="Adding python ICP3">
+      <change beforePath="$PROJECT_DIR$/ICP2/wordCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP2/wordCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP3/fullTimeEmployee.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP3/fullTimeEmployee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP4/naive_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP4/naive_bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP4/svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP4/svm.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ICP11/imageclassification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OverallQual</find>
+      <find>`</find>
+      <find>C19190</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ICP2/WeightConversion.py" />
+        <option value="$PROJECT_DIR$/ICP2/input.txt" />
+        <option value="$PROJECT_DIR$/ICP2/alternateStringLetters.py" />
+        <option value="$PROJECT_DIR$/ICP3/employee.py" />
+        <option value="$PROJECT_DIR$/ICP3/webscrapper.py" />
+        <option value="$PROJECT_DIR$/ICP3/randomnumpy.py" />
+        <option value="$PROJECT_DIR$/ICP3/fullTimeEmployee.py" />
+        <option value="$PROJECT_DIR$/ICP4/t.py" />
+        <option value="$PROJECT_DIR$/ICP4/glass.csv" />
+        <option value="$PROJECT_DIR$/ICP4/diff.py" />
+        <option value="$PROJECT_DIR$/ICP5/Python_Lesson5/Python_Lesson5/regression.py" />
+        <option value="$PROJECT_DIR$/ICP5/WineQuality.py" />
+        <option value="$PROJECT_DIR$/ICP5/multipleAnomly.py" />
+        <option value="$PROJECT_DIR$/labAssignment/dictonary.py" />
+        <option value="$PROJECT_DIR$/labAssignment/nonRepeatingSubstring.py" />
+        <option value="$PROJECT_DIR$/ICP6/silhouetteScore.py" />
+        <option value="$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6/PCA.py" />
+        <option value="$PROJECT_DIR$/ICP6/PCA.py" />
+        <option value="$PROJECT_DIR$/ICP6/kmean.py" />
+        <option value="$PROJECT_DIR$/ICP7/classifier.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/ICP7/Python_Lesson7/Python_Lesson7/text_classification.py" />
+        <option value="$PROJECT_DIR$/ICP7/NLP.py" />
+        <option value="$PROJECT_DIR$/ICP4/naive_bayes.py" />
+        <option value="$PROJECT_DIR$/ICP4/svm.py" />
+        <option value="$PROJECT_DIR$/ICP2/wordCount.py" />
+        <option value="$PROJECT_DIR$/ICP8/dense.py" />
+        <option value="$PROJECT_DIR$/ICP8/breastCancer.py" />
+        <option value="$PROJECT_DIR$/ICP9/task1" />
+        <option value="$PROJECT_DIR$/ICP9/task2.py" />
+        <option value="$PROJECT_DIR$/ICP9/task3.py" />
+        <option value="$PROJECT_DIR$/ICP9/bonus.py" />
+        <option value="$PROJECT_DIR$/ICP10/task1.py" />
+        <option value="$PROJECT_DIR$/ICP10/task2.py" />
+        <option value="$PROJECT_DIR$/ICP10/task1_task2.py" />
+        <option value="$PROJECT_DIR$/ICP10/task3.py" />
+        <option value="$PROJECT_DIR$/ICP10/bonus1.py" />
+        <option value="$PROJECT_DIR$/ICP10/bonus2.py" />
+        <option value="$PROJECT_DIR$/ICP10/bonus3.py" />
+        <option value="$PROJECT_DIR$/ICP11/imageclassification.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonDeeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDeeplearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDeeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDeeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP11" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonICPs/Python_Lesson4" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonDeeplearning\ICP5" />
+      <recent name="E:\PythonDeeplearning\ICP4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.task1">
+    <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP8/DeepLearning_Lesson1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP8/DeepLearning_Lesson1/basicOP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="naive_bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP4/naive_bayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP4/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP9/task1" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP2/wordCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.basicOP" />
+        <item itemvalue="Python.wordCount" />
+        <item itemvalue="Python.svm" />
+        <item itemvalue="Python.naive_bayes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a338e705-f66b-466c-87ee-da19c4a54093" name="Default Changelist" comment="" />
+      <created>1559668453632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559668453632</updated>
+      <workItem from="1559668493718" duration="910000" />
+      <workItem from="1559787216434" duration="8327000" />
+      <workItem from="1559837205198" duration="3561000" />
+      <workItem from="1560200723097" duration="10519000" />
+      <workItem from="1560263817557" duration="7161000" />
+      <workItem from="1560271929620" duration="3227000" />
+      <workItem from="1560352897569" duration="597000" />
+      <workItem from="1560389648300" duration="140000" />
+      <workItem from="1560392972526" duration="12459000" />
+      <workItem from="1560868973778" duration="11122000" />
+      <workItem from="1560910692528" duration="6992000" />
+      <workItem from="1561038962943" duration="12006000" />
+      <workItem from="1561470190531" duration="3057000" />
+      <workItem from="1561476362779" duration="6463000" />
+      <workItem from="1561597552392" duration="5416000" />
+      <workItem from="1562075190467" duration="969000" />
+      <workItem from="1562088931148" duration="317000" />
+      <workItem from="1562728668129" duration="1613000" />
+      <workItem from="1562869151541" duration="896000" />
+      <workItem from="1563284955294" duration="2454000" />
+      <workItem from="1563299383803" duration="957000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding python ICP1">
+      <created>1559668540280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559668540280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding python ICP2">
+      <created>1559839549587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559839549588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding python ICP3">
+      <created>1560271993876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560271993877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding python ICP4">
+      <created>1560449416554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560449416554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding python ICP5">
+      <created>1560881428638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560881428638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding python ICP6">
+      <created>1561055254679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561055254679</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding python ICP7">
+      <created>1561484637581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561484637581</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding python ICP8">
+      <created>1562089201863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562089201863</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding python ICP9">
+      <created>1562730030027</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562730030027</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding python ICP10">
+      <created>1562869485192</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562869485192</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding python ICP11">
+      <created>1563300203798</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563300203798</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99163000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25075987" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.41734862" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4140753" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3878887" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.24164134" />
+      <window_info anchor="right" x="463" y="141" width="434" height="445" id="R Graphics" order="4" weight="0.32978722" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding python ICP1" />
+    <MESSAGE value="Adding python ICP2" />
+    <MESSAGE value="Adding python ICP3" />
+    <MESSAGE value="Adding python ICP4" />
+    <MESSAGE value="Adding python ICP5" />
+    <MESSAGE value="Adding python ICP6" />
+    <MESSAGE value="Adding python ICP7" />
+    <MESSAGE value="Adding python ICP8" />
+    <MESSAGE value="Adding python ICP9" />
+    <MESSAGE value="Adding python ICP10" />
+    <MESSAGE value="Adding python ICP11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding python ICP11" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/labAssignment/nonRepeatingSubstring.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$Clusterusing.coverage" NAME="Clusterusing Coverage Results" MODIFIED="1561045536207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$dictonary.coverage" NAME="dictonary Coverage Results" MODIFIED="1560912977298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labAssignment" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$NLP.coverage" NAME="NLP Coverage Results" MODIFIED="1561483618582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP7" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$basicOP.coverage" NAME="basicOP Coverage Results" MODIFIED="1562082467222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP8/DeepLearning_Lesson1" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$regression.coverage" NAME="regression Coverage Results" MODIFIED="1560874924105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP5/Python_Lesson5/Python_Lesson5" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$fullTimeEmployee.coverage" NAME="fullTimeEmployee Coverage Results" MODIFIED="1560274960075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP3" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$WineQuality.coverage" NAME="WineQuality Coverage Results" MODIFIED="1560881152165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP5" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$multipleAnomly.coverage" NAME="multipleAnomly Coverage Results" MODIFIED="1560881112685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP5" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$svm.coverage" NAME="svm Coverage Results" MODIFIED="1561600361213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP4" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$webscrapper.coverage" NAME="webscrapper Coverage Results" MODIFIED="1560271142342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP3" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$kmean.coverage" NAME="kmean Coverage Results" MODIFIED="1561054870215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP6" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$PCA__1_.coverage" NAME="PCA (1) Coverage Results" MODIFIED="1561054921987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP6" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1562728954398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP9" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$wordCount.coverage" NAME="wordCount Coverage Results" MODIFIED="1561607523684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP2" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$WeightConversion.coverage" NAME="WeightConversion Coverage Results" MODIFIED="1559838739052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP2" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$PCA.coverage" NAME="PCA Coverage Results" MODIFIED="1561048948353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$employee.coverage" NAME="employee Coverage Results" MODIFIED="1560216494255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP3" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$randomnumpy.coverage" NAME="randomnumpy Coverage Results" MODIFIED="1560271399693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP3" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$reverseString.coverage" NAME="reverseString Coverage Results" MODIFIED="1559838893664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP1" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$alternateStringLetters.coverage" NAME="alternateStringLetters Coverage Results" MODIFIED="1559838966994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP2" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$text_classification.coverage" NAME="text_classification Coverage Results" MODIFIED="1561482494097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP7/Python_Lesson7/Python_Lesson7" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$classifier.coverage" NAME="classifier Coverage Results" MODIFIED="1561476384241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP7" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$silhouetteScore.coverage" NAME="silhouetteScore Coverage Results" MODIFIED="1561045525631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP6" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$diff.coverage" NAME="diff Coverage Results" MODIFIED="1561597962801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP4" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$naive_bayes.coverage" NAME="naive_bayes Coverage Results" MODIFIED="1561598682474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP4" />
+    <SUITE FILE_PATH="coverage/PythonDeeplearning$nonRepeatingSubstring.coverage" NAME="nonRepeatingSubstring Coverage Results" MODIFIED="1560917649200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labAssignment" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/index.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP3/employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP3/fullTimeEmployee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="18" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP3/randomnumpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP5/Python_Lesson5/Python_Lesson5/train.csv" />
+    <entry file="file://$PROJECT_DIR$/ICP5/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret column="173" selection-start-column="162" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP5/Python_Lesson5/Python_Lesson5/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/ICP5/Python_Lesson5/Python_Lesson5/regression.py" />
+    <entry file="file://$PROJECT_DIR$/ICP5/winequality-red.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="145" selection-start-column="138" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP5/WineQuality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labAssignment/nonRepeatingSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labAssignment/dictonary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6/Iris.csv" />
+    <entry file="file://$PROJECT_DIR$/ICP6/silhouetteScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP6/CC.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6/PCA.py" />
+    <entry file="file://$PROJECT_DIR$/ICP6/Python_Lesson6/Python_Lesson6/Clusterusing.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP3/webscrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#58#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP7/Python_Lesson7/Python_Lesson7/spelling_corrector.py" />
+    <entry file="file://$PROJECT_DIR$/ICP7/Python_Lesson7/Python_Lesson7/text_classification.py" />
+    <entry file="file://$PROJECT_DIR$/ICP4/diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/glass.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="195" column="26" selection-start-line="195" selection-start-column="26" selection-end-line="195" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP4/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="e#97#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP2/WeightConversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP7/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP7/NLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#58#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP2/wordCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP6/kmean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP6/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP5/multipleAnomly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP8/DeepLearning_Lesson1/basicOP.py" />
+    <entry file="file://$PROJECT_DIR$/ICP8/dense.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP8/breastCancer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP9/task1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP9/task2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP9/task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="94" selection-start-line="47" selection-start-column="94" selection-end-line="47" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP9/bonus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP10/task1.py" />
+    <entry file="file://$PROJECT_DIR$/ICP10/task2.py" />
+    <entry file="file://$PROJECT_DIR$/ICP10/bonus1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP10/bonus2.py" />
+    <entry file="file://$PROJECT_DIR$/ICP10/bonus3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#109#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP10/task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP10/task1_task2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP11/imageclassification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
